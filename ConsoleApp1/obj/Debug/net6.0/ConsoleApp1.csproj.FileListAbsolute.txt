@@ -1,0 +1,15 @@
+H:\П50-4-22\Программирование\C#\File manager\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+H:\П50-4-22\Программирование\C#\File manager\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+H:\П50-4-22\Программирование\C#\File manager\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+H:\П50-4-22\Программирование\C#\File manager\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+H:\П50-4-22\Программирование\C#\File manager\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+H:\П50-4-22\Программирование\C#\File manager\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+H:\П50-4-22\Программирование\C#\File manager\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+H:\П50-4-22\Программирование\C#\File manager\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+H:\П50-4-22\Программирование\C#\File manager\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+H:\П50-4-22\Программирование\C#\File manager\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+H:\П50-4-22\Программирование\C#\File manager\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+H:\П50-4-22\Программирование\C#\File manager\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+H:\П50-4-22\Программирование\C#\File manager\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+H:\П50-4-22\Программирование\C#\File manager\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+H:\П50-4-22\Программирование\C#\File manager\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
