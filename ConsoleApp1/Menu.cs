@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    internal class Menu
+    static internal class Menu
     {
         public static int Show(int MinStrelochka, int MaxStrelochka)
         {
